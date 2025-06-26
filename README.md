@@ -138,9 +138,8 @@ In both cases we should adjust commands for localstack. What option do we need t
 
 * `--backend-store-uri`
 * `--profile`
-* `--endpoint-url`
+* ✅ `--endpoint-url`
 * `--version`
-✅ `--endpoint-url`
 
 
 ## Make input and output paths configurable
